@@ -1,0 +1,1 @@
+This is an android app which is used during emergencies. This Android app will have a notification button when the notification button is pressed then the current location of your mobile will be taken and an SMS will be sent to the enlisted mobile numbers only,
